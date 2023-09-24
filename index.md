@@ -1,3 +1,3 @@
-# Hello I AM NIKHIL KRISHNA
+# Hello I am NIKHIL KRISHNA
 title: Welcome to my Website
 
