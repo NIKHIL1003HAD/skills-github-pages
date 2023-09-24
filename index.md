@@ -1,4 +1,3 @@
-# Hello---
-title: Welcome to my blog
----
+# Hello I AM NIKHIL KRISHNA
+title: Welcome to my Website
 
